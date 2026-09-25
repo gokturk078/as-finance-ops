@@ -71,3 +71,5 @@ The private implementations include JavaScript/TypeScript web applications, Next
 - Fabricated application code added only to make the case study appear larger
 
 This repository exists to document verified engineering work while preserving the commercial and privacy boundary of the original systems.
+
+The underlying software and this sanitized case study were developed by **Göktürk Kahriman**.
